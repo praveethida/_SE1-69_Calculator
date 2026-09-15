@@ -4,10 +4,11 @@
 # ฟีเจอร์การทำงาน (Features)
 1. เครื่องคิดเลขนี้ทำงานผ่าน commandline (Terminal)
 2. มีฟังก์ชันทางคณิตศาสตร์เบื้องต้นและขั้นสูงดังนี้ :
-    2.1 + การบวก (addition)
-    2.2 - การลบ (Subtraction)
-    2.3 * การคูณ (Multipiication)
-    2.4 / การหาร (Divition)
+ - + บวก (Addition)
+ - - ลบ (Subtraction)
+ - * คูณ (Multiplication)
+ - / หาร (Division)
 
 
-    ###
+
+
